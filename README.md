@@ -1,7 +1,7 @@
 # Web Development Mini Projects 🚀
 
 This repository features a collection of essential web development projects that showcase practical skills and applications. Currently, it includes three projects: an Automatic Password Generator, a QR Code Generator, and a Text-to-Speech Converter.
-
+ 
 ## Projects 🗂️
 
 1. **Automatic Password Generator** 🔑  
